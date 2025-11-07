@@ -16,10 +16,6 @@
     {
       "step": "activatePlugin",
       "pluginPath": "wp-test-main/wp-test.php"
-    },
-    {
-      "step": "navigateTo",
-      "url": "/wp-admin/admin.php?page=test-plugin"
     }
   ]
 }
