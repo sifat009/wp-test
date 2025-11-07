@@ -15,7 +15,7 @@
     },
     {
       "step": "activatePlugin",
-      "pluginPath": "wp-test-main/wp-test.php"
+      "pluginPath": "wp-test/wp-test.php"
     }
   ]
 }
