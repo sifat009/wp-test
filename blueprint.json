@@ -1,0 +1,17 @@
+{
+  "landingPage": "/wp-admin/admin.php?page=test-plugin",
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginUrl": "https://github.com/sifat009/wp-test/archive/refs/heads/main.zip"
+    },
+    {
+      "step": "activatePlugin",
+      "pluginSlug": "wp-test"
+    },
+    {
+      "step": "goTo",
+      "url": "/wp-admin/admin.php?page=test-plugin"
+    }
+  ]
+}
