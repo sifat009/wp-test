@@ -18,7 +18,7 @@
       "pluginPath": "wp-test-main/wp-test.php"
     },
     {
-      "step": "goTo",
+      "step": "navigateTo",
       "url": "/wp-admin/admin.php?page=test-plugin"
     }
   ]
