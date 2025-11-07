@@ -3,11 +3,18 @@
   "steps": [
     {
       "step": "installPlugin",
-      "pluginUrl": "https://github.com/sifat009/wp-test/archive/refs/heads/main.zip"
+      "pluginUrl": "https://github.com/sifat009/wp-test/archive/refs/heads/main.zip",
+      "pluginData": {
+        "name": "Test Plugin",
+        "slug": "test-plugin",
+        "version": "1.0",
+        "author": "Sifat Haque",
+        "source": "https://github.com/sifat009/wp-test/archive/refs/heads/main.zip"
+      }
     },
     {
       "step": "activatePlugin",
-      "pluginSlug": "wp-test"
+      "pluginSlug": "test-plugin"
     },
     {
       "step": "goTo",
