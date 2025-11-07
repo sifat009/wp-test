@@ -8,7 +8,7 @@ Author: Sifat Haque
 
 
 function test_plugin_display_page() {
-    echo '<div class="wrap"><h1>Welcome to the Test Plugin Page</h1><p>This is a simple test plugin.</p></div>';
+    echo '<div class="wrap"><h1>🎉 🎉 Welcome to the Test Plugin Page 🎉 🎉</h1><p>This is a simple test plugin.</p></div>';
 }
 
 
